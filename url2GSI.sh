@@ -7,7 +7,7 @@ TOOLS_DIR="$PROJECT_DIR/tools"
 PARTITIONS="system vendor cust odm oem factory product xrom systemex system_ext reserve india"
 
 AB=true
-AONLY=true
+AONLY=false
 MOUNTED=false
 CLEAN=true
 
